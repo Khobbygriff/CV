@@ -48,3 +48,6 @@
 
 This project is open-source and available under the [MIT License](LICENSE).
 
+## Project URL
+[Project Page](https://roadmap.sh/projects/single-page-cv)
+
